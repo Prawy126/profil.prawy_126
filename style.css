@@ -1,0 +1,15 @@
+ul
+{
+    background-color: yellow;
+    border: 2px solid red;
+    border-radius: 50px;
+}
+p
+{
+    color:red;
+}
+a
+{
+    color:khaki;
+    text-decoration: none;
+}
