@@ -13,3 +13,17 @@ a
     color:khaki;
     text-decoration: none;
 }
+image
+{
+    border-radius: 20px;
+}
+.okragly-obraz{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+    background-position: center;
+    background: no-repeat;
+    overflow: hidden;
+    
+    
+}
