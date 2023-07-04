@@ -24,6 +24,8 @@ image
     background-position: center;
     background: no-repeat;
     overflow: hidden;
-    
+    text-align: center;
+    display: flex;
+    margin: auto;
     
 }
